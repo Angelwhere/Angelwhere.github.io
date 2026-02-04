@@ -1,0 +1,17 @@
+:root{
+--color-1:#35155D;
+--color-2:#512B81;
+--color-3:#4477CE;
+--color-4:#8CABFF;
+}
+
+
+body {
+color:aliceblue;  
+background-color: var(--color-3);
+}
+
+hr{
+    border-color:aliceblue;
+    border-width: 3px;
+}
