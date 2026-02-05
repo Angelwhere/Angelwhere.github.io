@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&family=Tangerine:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&display=swap');
+
+
 :root{
 --color-1:#35155D;
 --color-2:#512B81;
@@ -15,3 +19,13 @@ hr{
     border-color:aliceblue;
     border-width: 3px;
 }
+
+h1 {
+        font-family: "Emilys Candy", serif;
+
+}
+
+p{ font-family: "Playwrite GB J Guides", cursive;}
+
+
+h2{font-family: "Emilys Candy", serif;}
