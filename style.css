@@ -29,3 +29,13 @@ p{ font-family: "Playwrite GB J Guides", cursive;}
 
 
 h2{font-family: "Emilys Candy", serif;}
+
+.text-center {
+    text-align: center;
+  }
+  
+  .About {
+    background-color: var(--color-4);
+  }
+
+  
