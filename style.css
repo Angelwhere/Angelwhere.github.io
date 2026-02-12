@@ -36,6 +36,40 @@ h2{font-family: "Emilys Candy", serif;}
   
   .About {
     background-color: var(--color-4);
+    border: 2px dashed #512B81;
+    border-radius:8px;
   }
 
-  
+  .Home{ background-color:#8CABFF;
+    border:2px dashed #512B81;
+    border-radius:8px;
+
+
+}
+
+
+
+
+nav{
+    background-color:aliceblue;
+
+    text-align: right;
+
+}
+
+nav a{
+    color:var(--color-4);
+    text-decoration: none;
+    padding: 16px;
+    display: inline-block;
+
+}
+
+nav a:hover{
+background-color:var(--color-2);
+color:var(--color-3);
+border-bottom: 2px solid var(--color-3);}
+
+#center{
+    text-align: center;
+}
